@@ -7,14 +7,12 @@
 Nome do professor: Wuldson Franco Fernades da Silva
 Curso: Sistemas Para Internet
 Turno: Noturno
-Período: 1º Período
+Período: 1º Período..
 ```
-
 
 ## Alunos
 
 | Nome do Aluno  | Matrícula | Equipe   |
 |----------------|-----------|----------|
-| Aluno 1        | 123456    | Equipe A |
-| Aluno 2        | 654321    | Equipe B |
-<!-- Adicione mais alunos aqui -->
+| André Wanderley Porto | 2024211510239 | Equipe Camonn |
+.
