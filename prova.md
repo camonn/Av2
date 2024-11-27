@@ -17,3 +17,4 @@ Período: 1º Período..
 | André Wanderley Porto | 2024211510239 | Equipe Camonn |
 | Eduardo Cunha Borges | 2024210220056 | Equipe Camonn |
 | Keven Douoglas Sousa Do Nascimento | 2024211510241 | Equipe Camonn |
+| Breno victor duarte ferraz | 2024211510219 | Equipe Camonn |
