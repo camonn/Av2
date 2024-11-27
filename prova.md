@@ -19,3 +19,4 @@ Período: 1º Período..
 | Keven Douoglas Sousa Do Nascimento | 2024211510241 | Equipe Camonn |
 | Breno victor duarte ferraz | 2024211510219 | Equipe Camonn |
 | John carlos batista nascimento| 2024211510266 | Equipe Camonn |
+| Edvaldo rangel de paiva neto | 2024211510253 | Equipe Camonn |
